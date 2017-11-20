@@ -20,9 +20,13 @@
 .DS_Store
 
 
-*/building/
+*/build/
 
 # Maven
 log
 /
 target/
+
+#---
+.gradle/
+*.gradle
