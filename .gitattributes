@@ -1,0 +1,5 @@
+cat .gitattributes
+*.rb linguist-language=Java
+*.rb linguist-vendored=Java
+hello-world/build/* linguist-vendored=true
+two-fer/build/* linguist-vendored=true
