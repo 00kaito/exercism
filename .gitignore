@@ -7,7 +7,6 @@
 .settings/
 
 
-
 # Intellij
 
 .idea/
@@ -15,8 +14,6 @@
 *.iml
 
 *.iws
-
-
 
 # Mac
 
