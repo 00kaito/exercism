@@ -1,0 +1,8 @@
+<application>
+  <component name="LanguageInjectionConfiguration">
+    <injection language="ThymeleafIterateExpressions" injector-id="xml">
+      <display-name>span/@text</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("text")).withNamespace(string().equalTo("http://thymeleaf.org/")).withParent(xmlTag().withLocalName(string().equalTo("span")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
+  </component>
+</application>
