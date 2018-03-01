@@ -10,8 +10,12 @@
           <option name="url" value="https://github.com/java-learning-PL/catalogue" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/grygielj/catalogue" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\admin\workspace\catalogue" />
+    <option name="cloneParentDir" value="C:\Users\admin\workspace\catalog" />
   </component>
 </application>
