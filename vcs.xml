@@ -18,8 +18,12 @@
           <option name="url" value="https://github.com/00kaito/catalogue.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.com/szkolenia-ak/mini-blog.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\admin\workspace\catalogue" />
+    <option name="cloneParentDir" value="C:\Users\admin\workspace\ak-miniblog" />
   </component>
 </application>
