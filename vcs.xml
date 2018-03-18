@@ -26,8 +26,12 @@
           <option name="url" value="https://gitlab.com/szkolenia-ak/voting-system.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.com/szkolenia-ak/java8-and-tests.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\admin\workspace\ak-miniblog" />
+    <option name="cloneParentDir" value="C:\Users\admin\workspace\java8" />
   </component>
 </application>
