@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="Hamming" type="Kotlin" />
       <mapping pattern=".keep" type="Kotlin" />
       <mapping pattern="o" type="PLAIN_TEXT" />
     </extensionMap>
