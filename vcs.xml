@@ -54,8 +54,12 @@
           <option name="url" value="https://github.com/soulgalore/crawler.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/redux-utilities/flux-standard-action.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\admin\workspace\ak-miniblog" />
+    <option name="cloneParentDir" value="C:\Users\admin\workspace\FRONTEND" />
   </component>
 </application>
