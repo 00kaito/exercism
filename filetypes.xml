@@ -4,6 +4,7 @@
       <mapping pattern="Hamming" type="Kotlin" />
       <mapping pattern=".keep" type="Kotlin" />
       <mapping pattern="o" type="PLAIN_TEXT" />
+      <mapping pattern="jsonstring" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
