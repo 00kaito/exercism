@@ -90,8 +90,12 @@
           <option name="url" value="https://bedevy@bitbucket.org/bedevy/github-repositories.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://bedevy@bitbucket.org/_java/mailgen.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\admin\workspace\allegro" />
+    <option name="cloneParentDir" value="C:\Users\admin\workspace" />
   </component>
 </application>
