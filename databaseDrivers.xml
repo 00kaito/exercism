@@ -76,8 +76,12 @@
       <option name="auto-sync" value="false" />
     </driver>
     <driver id="mysql">
+      <url-template name="default" template="jdbc:mysql://{host::localhost}?[:{port::3306}][/{database}?][\?&lt;&amp;,user=root,password=root,{:identifier}={:identifier}&gt;]" />
       <artifact name="MySQL Connector/J" use="true" />
       <option name="auto-sync" value="true" />
+      <option name="auto-commit" value="true" />
+      <option name="send-app-info" value="true" />
+      <option name="schema-control" value="AUTOMATIC" />
     </driver>
     <driver id="hsqldb.remote">
       <artifact name="HSQLDB" use="true" />
