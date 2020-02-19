@@ -98,6 +98,10 @@
           <option name="url" value="https://bedevy@bitbucket.org/bedevy/alior.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://bedevy@bitbucket.org/back-track/concurrent.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\admin\workspace" />
