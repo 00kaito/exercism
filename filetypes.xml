@@ -3,11 +3,11 @@
     <extensionMap>
       <mapping pattern="Hamming" type="Kotlin" />
       <mapping pattern=".keep" type="Kotlin" />
-      <mapping pattern="o" type="PLAIN_TEXT" />
-      <mapping pattern="jsonstring" type="PLAIN_TEXT" />
       <mapping pattern="gitkeep" type="PLAIN_TEXT" />
-      <mapping ext="ser" type="PLAIN_TEXT" />
+      <mapping pattern="jsonstring" type="PLAIN_TEXT" />
+      <mapping pattern="o" type="PLAIN_TEXT" />
       <mapping ext="dev" type="PLAIN_TEXT" />
+      <mapping ext="ser" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
